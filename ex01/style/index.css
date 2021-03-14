@@ -1,0 +1,54 @@
+.page-title {
+  text-align: center;
+  color: crimson;
+}
+
+h3 {
+    text-align: left;
+    color: lightskyblue;
+    margin: 15px 10px 20px;
+}
+
+p {
+    text-align: justify;
+    margin: 0 10px 35px;
+}
+
+img {
+    width: 100%;
+       
+}
+
+.top-row {
+  display: flex;
+  justify-content: space-around;  
+}
+
+/*.top-row div, .middle-row div, .bottom-row div {
+    border: 1px #ccc solid;
+    padding: 10px;
+}*/
+
+.middle-row {
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.bottom-row {
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.first-in-a-row {
+    width: 27%;
+}
+
+.second-in-a-row {
+    width: 27%;
+}
+
+.third-in-a-row {
+    width: 27%;
+}
